@@ -1,16 +1,18 @@
-
 /node_modules
 /public/hot
 /public/storage
 /storage/*.key
 /vendor
+/.idea
 .env
 .env.backup
 .phpunit.result.cache
 docker-compose.override.yml
+<<<<<<< HEAD
 /.idea
 phpcbf.phar
 phpcs.phar
 phpunit.phar
 composer.phar
+*.phar
 *.phar

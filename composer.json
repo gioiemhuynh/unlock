@@ -1,0 +1,19 @@
+{
+    "name": "tlait/unlock",
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Tlait\\Unlock\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "TLA IT",
+            "email": "em.huynh@nfq.asia"
+        }
+    ],
+    "require": {}
+
+}
